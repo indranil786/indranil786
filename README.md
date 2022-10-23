@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/indranil786/portfoliov2/raw/main/Images/indranil_kar_resume.pdf](https://github.com/indranil786/portfoliov2/raw/main/Images/indranil_kar_resume.pdf)
 
-- ⚡ Fun fact **I still sometimes use stackoverflow for centering a div ;)**
+- ⚡ Fun fact **I prefer spaces over tab ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
