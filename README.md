@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with [Fastjobs.io](https://fastjobs.io/)
 
-- 🌱 I’m currently learning **ReactJs, Nextjs , Docker**
+- 🌱 I’m currently learning **ReactJs, Nest.js , Docker**
 
 - 👨‍💻 All of my projects are available at [https://indranilkar.me/](https://indranilkar.me/)
 
