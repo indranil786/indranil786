@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranil786" alt="indranil786" /></a> </p>
 
-- 🔭 I’m currently working with [Fastjobs.io](https://fastjobs.io/)
+<!--- 🔭 I’m currently working with [Fastjobs.io](https://fastjobs.io/)-->
 
 - 🌱 I’m currently learning **ReactJs, Nest.js , Docker**
 
-- 👨‍💻 All of my projects are available at [https://indranilkar.me/](https://indranilkar.me/)
+<!--- 👨‍💻 All of my projects are available at [https://indranilkar.me/](https://indranilkar.me/)-->
 
 - 💬 Ask me about **Node.js , Mongodb , Javascript**
 
 - 📫 How to reach me **karindranil999@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/indranil786/portfoliov2/raw/main/Images/indranil_kar_resume.pdf](https://github.com/indranil786/portfoliov2/raw/main/Images/indranil_kar_resume.pdf)
+<!--- 📄 Know about my experiences [https://github.com/indranil786/portfoliov2/raw/main/Images/indranil_kar_resume.pdf](https://github.com/indranil786/portfoliov2/raw/main/Images/indranil_kar_resume.pdf)-->
 
 - ⚡ Fun fact **I prefer spaces over tab ;)**
 
